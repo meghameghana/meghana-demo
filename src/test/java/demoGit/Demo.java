@@ -9,5 +9,7 @@ public class Demo {
 		 
 		System.out.println("user1 - commit");
 		System.out.println("user2 - commit");
+		System.out.println("user1 - commit");
+		System.out.println("user2 - commit");
 	}
 }
